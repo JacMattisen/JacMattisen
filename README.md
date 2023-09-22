@@ -1,4 +1,4 @@
-- 👋 Hi there, 
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jacqueline Mattisen</h1>
 - 👩‍🎓 I'm currently learning : Full Stack Developer - Python.
 - I have already learned the Introduction to Programming in which I was able to learn about programming logic, algorithm, variables, vectors, Front - end and Back- end Python development (Android and IOS)
 -<div style="display: inline_block"><br>
