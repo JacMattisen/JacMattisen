@@ -3,7 +3,7 @@
 
 - 👩‍🎓 I'm currently learning : Full Stack Developer - Python.
 - I have already learned the Introduction to Programming in which I was able to learn about programming logic, algorithm, variables, vectors, Front - end and Back- end Python development (Android and IOS)
-- 💻 I also take a course on: Webprojekt - Einstieg in die Webentwicklung
+- 💻 I also take a course on: "Webprojekt - Einstieg in die Webentwicklung" and "Frontend Developer Programm"
 
 -<div style="display: inline_block"><br>
   <img align="center" alt="Jac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
