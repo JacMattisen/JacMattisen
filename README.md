@@ -1,6 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jacqueline Mattisen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacmattisen&color=yellow" alt="Profile views" /> </p>
 
+- Krankenschwester seit 2010, habe ich die Schichten gegen die IT getauscht. EN:  Nurse since 2010, I swapped shifts for IT. 
 - 👩‍🎓 I'm currently learning : Full Stack Developer - Python.
 - I have already learned the Introduction to Programming in which I was able to learn about programming logic, algorithm, variables, vectors, Front - end and Back- end Python development (Android and IOS)
 - 💻 I also take a course on: "Webprojekt - Einstieg in die Webentwicklung" and "Frontend Developer Programm"
