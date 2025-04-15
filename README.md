@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jacqueline Mattisen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacmattisen&color=yellow" alt="Profile views" /> </p>
 
@@ -16,9 +18,16 @@
   <img align="center" alt="Jac-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
   
-## Contact
+## You find me 
+<p align="left">
+  💌 Contact: ⤵️
+</p>
+  <a href="mailto:jacquemattisen@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"target="_blank" alt="Gmail"/></a>
 
-  <a href = "mailto:jacquemattisen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacqueline-mattisen" target="_blank" alt="LinkedIn"/></a>
+ 
   
 </div>
 <!---
