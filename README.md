@@ -14,14 +14,16 @@
 
 🧠 I've completed an **Introduction to Programming** course, gaining solid foundations in logic, algorithms, and both frontend/backend development.
 
-🌱 Exploring modern web development technologies and building projects that solve real-world problems.
+🌱 Exploring modern web development technologies, Bootcamp and building projects that solve real-world problems.
 
 ---
 
 ## 🌐 Web Development Journey
 
-✅ Completed "**Webprojekt – Einstieg in die Webentwicklung**" at OpenCampus.sh  
-💻 Currently enrolled in the "**Frontend Developer Program**" at OpenCampus.sh
+✅ Completed "**Webprojekt – Einstieg in die Webentwicklung**" at OpenCampus.sh 
+✅ Completed  "**Frontend Developer Program**" at OpenCampus.sh
+✅ Completed "**Bootcamp Santander 2025 Frontend Developer**" finishing in 4th place in the ranking
+💻 Currently enrolled in the  **"WebDev Programm"**  at OpenCampus.sh
 
 🔧 Tools & Technologies I'm working with:
 
@@ -31,8 +33,6 @@
 - 🐳 Docker  
 - 🔌 GraphQL  
 - 🎨 Figma
-
-💡 Planning to join the upcoming **"WebDev Programm"** to sharpen my frontend superpowers. 💪
 
 ---
 
